@@ -10,3 +10,23 @@ We will evaluate the performance of these models and make a recommendation on wh
 # Results
 
 
+## Resampling Techniques:
+
+
+![Naive Oversampling](N_os.png)
+
+
+![SMOTE Oversampling](S_os.png)
+
+
+![Undersampling](U_s.png)
+
+
+![Combination (Over and Under) Sampling](C_s.png)
+
+
+![Balanced Rainforest Classifier](brc.png)
+
+
+![Easy Ensemble AdaBoost Classifier](abc.png)
+
